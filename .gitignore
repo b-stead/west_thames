@@ -1,0 +1,8 @@
+venv
+*.env
+db.sqlite3
+node_modules
+__pycache__
+tailwind-admin-template-master
+**.pyc
+.DS_Store
